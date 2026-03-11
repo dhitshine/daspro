@@ -1,0 +1,5 @@
+All upper case letters in input file:
+HNRAASAITS
+All lines that start with letters 'A':
+Aku tinggal di Surabaya
+Aku adalah anak ITS
