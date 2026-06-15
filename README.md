@@ -8,7 +8,7 @@ The repository is organized into three main directories:
 
 * [Modul](Modul/): Contains code examples, explanations, and exercises for each learning module.
 * [Praktikum](Praktikum/): Contains laboratory problem sets, test cases, and solution codes.
-* [Tugas](Tugas/): Contains regular classroom assignments and homework.
+* [Tugas](Tugas/): Contains course assignments and homework provided by the lecturer.
 
 ---
 
@@ -31,7 +31,7 @@ This section contains assignments and solutions from the scheduled programming l
 * [Praktikum Final](Praktikum/Praktikum-Final/)
 
 ### Assignments (Tugas)
-This section contains standard homework assignments distributed throughout the course:
+This section contains course assignments provided by the lecturer throughout the semester:
 * [Tugas 1](Tugas/Tugas-1/)
 * [Tugas 2](Tugas/Tugas-2/)
 * [Tugas 3](Tugas/Tugas-3/)
