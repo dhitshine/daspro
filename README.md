@@ -23,11 +23,12 @@ This section contains structured guides and sample programs for learning C progr
 * [Modul 4](Modul/Modul-4/)
 
 ### Labs (Praktikum)
-This section contains assignments and solutions from the scheduled programming labs:
-* [Praktikum 1](Praktikum/Praktikum-1/)
-* [Praktikum 2](Praktikum/Praktikum-2/)
-* [Praktikum 3](Praktikum/Praktikum-3/)
-* [Praktikum 4](Praktikum/Praktikum-4/)
+
+This section contains assignments and solutions from the scheduled programming labs. Note that each main lab (Praktikum 1 - 4) has its corresponding solutions in its `Solusi` directory:
+* [Praktikum 1](Praktikum/Praktikum-1/) (Solutions: [prak1.pdf](Praktikum/Praktikum-1/Solusi/prak1.pdf))
+* [Praktikum 2](Praktikum/Praktikum-2/) (Solutions: [prak2.pdf](Praktikum/Praktikum-2/Solusi/prak2.pdf))
+* [Praktikum 3](Praktikum/Praktikum-3/) (Solutions: [prak3.pdf](Praktikum/Praktikum-3/Solusi/prak3.pdf))
+* [Praktikum 4](Praktikum/Praktikum-4/) (Solutions: [prak4.pdf](Praktikum/Praktikum-4/Solusi/prak4.pdf))
 * [Praktikum Final](Praktikum/Praktikum-Final/)
 
 ### Assignments (Tugas)
